@@ -12,4 +12,5 @@ footer {
     position: sticky;
     text-align: center;
     border-top: 2px solid black;
+    /*the height of footer, max-height doesn't work*/
 }
