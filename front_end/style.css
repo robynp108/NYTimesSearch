@@ -1,0 +1,15 @@
+.panel-body a {
+    word-break: break-all;
+}
+
+.jumbotron {
+    text-align: center;
+    background-color: #20315A ; 
+    color: white;
+}
+
+footer {
+    position: sticky;
+    text-align: center;
+    border-top: 2px solid black;
+}
